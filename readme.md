@@ -11,6 +11,7 @@ pip install requests
 確保 Python 版本為 3.8 以上。
 **由於無法上傳過大資料庫的緣故，將資料庫travelgo附上連結下載，下載存放位置應於/server中的/data內**
 https://drive.google.com/file/d/1dRw0LEOLzMc9h90wwg32n1IfhIzzJ5ly/view?usp=share_link
+
 **檔案結構**：
 client/ 客戶端
 
